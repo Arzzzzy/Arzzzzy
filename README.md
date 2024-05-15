@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arzzz_kaedehara" target="blank"><img src="https://img.shields.io/twitter/follow/arzzz_kaedehara?logo=twitter&style=for-the-badge" alt="arzzz_kaedehara" /></a> </p>
 
-- 🌱 I’m currently learning **html, css, javascript, python, java**
+- 🌱 I’m currently learning **html, css, javascript, reactjs, node.js,  python, java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arzzzzy](https://github.com/Arzzzzy)
 
