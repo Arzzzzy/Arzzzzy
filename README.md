@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Andrei Arzadon</h1>
-<h3 align="center">Bachelor of Science in Computer Science</h3>
+<h3 align="center">Bachelor of Science in Computer Science @ Mariano Marcos State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzzzzy&label=Profile%20views&color=0e75b6&style=flat" alt="arzzzzy" /> </p>
 
