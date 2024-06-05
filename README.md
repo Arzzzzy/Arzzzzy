@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzzzzy" alt="arzzzzy" /></a> </p>
 
-- 🌱 I’m currently learning html, css, javascript, python, java **reactjs, node.js**
+- 🌱 I’m currently learning html, css, javascript, python, java, php, mysql, **reactjs, node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arzzzzy](https://github.com/Arzzzzy)
 
