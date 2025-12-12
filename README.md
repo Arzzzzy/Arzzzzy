@@ -4,7 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzzzzy&label=Profile%20views&color=0e75b6&style=flat" alt="arzzzzy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arzzzzy" alt="Arzzzzy" /></a> </p>
+<!-- Trophies from your working deployment -->
+<p align="left">
+  <a href="https://github.com/Arzzzzy">
+    <img src="https://github-trophies.vercel.app/?username=Arzzzzy" alt="Arzzzzy" />
+  </a>
+</p>
+
 
 - 🌱 I'm currently learning **Machine Learning, React, Flask, Django, Laravel**
 
