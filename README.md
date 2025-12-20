@@ -16,7 +16,7 @@
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **arzzpaypal@gmail.com**
 
