@@ -1,5 +1,6 @@
 # Hi 👋, I'm Arzadon, Christian Andrei
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7960C&width=435&lines=Full-Stack+Developer+in+Progress;Building+Modern+Web+Applications;Learning+by+Building+Real+Projects;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
 ### Bachelor of Science in Computer Science @ Mariano Marcos State University
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzzzzy&label=Profile%20views&color=0e75b6&style=flat" alt="arzzzzy" /> </p>
@@ -16,13 +17,10 @@
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Software Development**
-
 - 📫 How to reach me **arzzpaypal@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://arzadonchristian.dev/](https://arzadonchristian.dev/)**
 
-- 📝 I regularly write articles on **[https://arzadonchristian.dev/](https://arzadonchristian.dev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,5 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arzzzzy&show_icons=true&locale=en" alt="Arzzzzy" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arzzzzy&" alt="Arzzzzy" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arzzzzy&" alt="Arzzzzy" /></p> -->
 
