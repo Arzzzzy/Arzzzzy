@@ -1,40 +1,62 @@
-# Hi 👋, I'm Arzadon, Christian Andrei
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7960C&width=435&lines=Full-Stack+Developer+in+Progress;Building+Modern+Web+Applications;Learning+by+Building+Real+Projects;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
-### Bachelor of Science in Computer Science @ Mariano Marcos State University
+# Hi there, I'm Christian Andrei 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arzzzzy&label=Profile%20views&color=0e75b6&style=flat" alt="arzzzzy" /> </p>
+**Founder of MezastarHub | Full-Stack Developer | Mobile Developer**
 
-<!-- Trophies from your working deployment -->
-<p align="left">
-  <a href="https://github.com/Arzzzzy">
-    <img src="https://github-trophies.vercel.app/?username=Arzzzzy" alt="Arzzzzy" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Exploring+NLP+%26+Machine+Learning;Crafting+React+%26+Next.js+Experiences;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arzzzzy&label=Profile%20views&color=00FFCC&style=flat-square" alt="Profile Views" />
 </p>
 
+</div>
 
-- 🌱 I'm currently learning **Machine Learning, React, Flask, Django, Laravel**
+---
 
-- 👯 I'm looking to collaborate on **Open Source Projects**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **arzzpaypal@gmail.com**
+- 🎓 **BS Computer Science** student at Mariano Marcos State University, Ilocos Norte.
+- 🚀 Currently building **PasyarNorte** (an ABSA-powered tourism platform) and maintaining the **Mezastar Hub** application.
+- 💻 Specializing in modern web development with **React, Next.js (JavaScript), Node.js, and Python**.
+- 🧠 Actively researching **Aspect-Based Sentiment Analysis (ABSA)** and Natural Language Processing.
+- 🌐 Check out portfolio at **[arzadonchristian.dev](https://arzadonchristian.dev/)**.
+- 📫 Reach out directly: **[arzzpaypal@gmail.com](mailto:arzzpaypal@gmail.com)**
 
-- 👨‍💻 All of my projects are available at **[https://arzadonchristian.dev/](https://arzadonchristian.dev/)**
+---
 
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Arzzzzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Arzzzzy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arzadonchristian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arzadonchristian/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/christianandrei.tolentinoarzadon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/christianandrei.tolentinoarzadon" height="30" width="40" /></a>
+  <strong>Frontend:</strong><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vue" />
+  <br><br>
+  <strong>Backend & Databases:</strong><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,php,laravel,mysql,firebase" />
+  <br><br>
+  <strong>Machine Learning & Data Science:</strong><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" />
+  <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Huggingface" width="48" height="48" style="vertical-align: middle; margin: 0 4px;"/></a>
+  <br><br>
+  <strong>DevOps & Tools:</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,azure,nginx,selenium" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arzzzzy&show_icons=true&locale=en&layout=compact" alt="Arzzzzy" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arzzzzy&show_icons=true&locale=en" alt="Arzzzzy" /></p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arzzzzy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFCC" alt="Arzzzzy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzzzzy&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCC" alt="Top Languages" />
+</div>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arzzzzy&" alt="Arzzzzy" /></p> -->
+<br>
 
+<div align="center">
+
+### 🔗 Connect With Me
+<a href="https://linkedin.com/in/arzadonchristian/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/christianandrei.tolentinoarzadon"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+
+</div>
