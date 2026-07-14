@@ -2,7 +2,7 @@
 
 # Hi there, I'm Christian Andrei 👋
 
-**Founder of MezastarHub | Full-Stack Developer | Mobile Developer**
+**Founder of MezastarHub | Web & Mobile Developer**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Creating+Mobile+Apps+with+React+Native+%26+Expo;Exploring+NLP+%26+Machine+Learning;Deploying+Real-World+Software+Projects;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
 
