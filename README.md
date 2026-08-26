@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:0f172a,50:111827,100:2563eb&amp;text=Christian%20Andrei%20Arzadon&amp;fontColor=ffffff&amp;fontSize=38&amp;fontAlignY=38&amp;desc=Web%20and%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" alt="Christian Andrei Arzadon" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+modern+web+applications;Creating+mobile+apps+with+React+Native;Developing+full-stack+software+solutions;Exploring+Machine+Learning+and+NLP;Deploying+real-world+software+projects" alt="Typing Animation" />
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+modern+web+applications;Creating+mobile+apps+with+React+Native;Developing+full-stack+software+solutions;Exploring+Machine+Learning+and+NLP;Deploying+real-world+software+projects" alt="Typing Animation" />
 </a>
 
 <br/>
@@ -49,17 +49,13 @@ Environment        Linux / Debian / Docker / Git
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">MezastarHub</h3>
+### MezastarHub
 
 <p align="center">
 Offline-first mobile companion application designed for Pokémon Mezastar players and collectors.
 </p>
 
-### Highlights
+#### Highlights
 
 * Offline-first application architecture
 * Collection tracking and management
@@ -69,11 +65,11 @@ Offline-first mobile companion application designed for Pokémon Mezastar player
 * Multi-language support
 * Production Android deployment
 
-### Technologies
+#### Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,androidstudio" alt="MezastarHub Technologies" />
+<img src="https://skillicons.dev/icons?i=react,js,androidstudio&amp;perline=3" alt="MezastarHub Technologies" />
 
 <br/><br/>
 
@@ -82,17 +78,15 @@ Offline-first mobile companion application designed for Pokémon Mezastar player
 
 </p>
 
-</td>
+<br/>
 
-<td width="50%" valign="top">
-
-<h3 align="center">PasyarNorte</h3>
+### PasyarNorte
 
 <p align="center">
 Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and Natural Language Processing.
 </p>
 
-### Highlights
+#### Highlights
 
 * Aspect-Based Sentiment Analysis
 * Preference-aware recommendations
@@ -101,15 +95,15 @@ Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and N
 * Machine learning API integration
 * Full-stack cloud deployment
 
-### Technologies
+#### Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,flask" alt="PasyarNorte Technologies" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,flask&amp;perline=4" alt="PasyarNorte Technologies" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=firebase,vercel" alt="PasyarNorte Cloud Technologies" />
+<img src="https://skillicons.dev/icons?i=firebase,vercel&amp;perline=2" alt="PasyarNorte Cloud Technologies" />
 
 <br/><br/>
 
@@ -121,9 +115,7 @@ Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and N
 
 </p>
 
-</td>
-</tr>
-</table>
+
 ---
 
 ## Technology Stack
@@ -132,21 +124,21 @@ Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and N
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,html,css" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,html,css&amp;perline=4" alt="Programming Languages" />
 
 <br/>
 <br/>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap&amp;perline=3" alt="Frontend Technologies" />
 
 <br/>
 <br/>
 
 ### Mobile
 
-<img src="https://skillicons.dev/icons?i=react,androidstudio" alt="Mobile Development" />
+<img src="https://skillicons.dev/icons?i=react,androidstudio&amp;perline=2" alt="Mobile Development" />
 
 <br/>
 
@@ -157,14 +149,14 @@ Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and N
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel" alt="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel&amp;perline=3" alt="Backend Technologies" />
 
 <br/>
 <br/>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" alt="Database Technologies" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&amp;perline=3" alt="Database Technologies" />
 
 <br/>
 
@@ -175,7 +167,7 @@ Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and N
 
 ### Machine Learning and NLP
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine Learning Technologies" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;perline=3" alt="Machine Learning Technologies" />
 
 <br/>
 
@@ -186,7 +178,7 @@ Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and N
 
 ### Development and Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,debian,nginx,vercel,gcp,azure" alt="Development and Deployment Technologies" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,debian,nginx,vercel,gcp,azure&amp;perline=5" alt="Development and Deployment Technologies" />
 
 <br/>
 
@@ -218,14 +210,12 @@ Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and N
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arzzzzy&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=3B82F6&amp;icon_color=3B82F6&amp;text_color=C9D1D9&amp;ring_color=3B82F6" alt="GitHub Statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzzzzy&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=3B82F6&amp;text_color=C9D1D9&amp;langs_count=8" alt="Most Used Languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arzzzzy&amp;theme=github_dark" alt="GitHub Profile Summary" />
 
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arzzzzy&amp;hide_border=true&amp;background=0D1117&amp;stroke=3B82F6&amp;ring=3B82F6&amp;fire=3B82F6&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=3B82F6&amp;sideLabels=C9D1D9&amp;dates=8B949E" alt="GitHub Contribution Streak" />
+<img width="100%" src="https://streak-stats.demolab.com?user=Arzzzzy&amp;hide_border=true&amp;background=0D1117&amp;stroke=3B82F6&amp;ring=3B82F6&amp;fire=3B82F6&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=3B82F6&amp;sideLabels=C9D1D9&amp;dates=8B949E" alt="GitHub Contribution Streak" />
 
 </div>
 
