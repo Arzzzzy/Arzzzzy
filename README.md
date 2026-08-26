@@ -79,7 +79,7 @@ Offline-first mobile companion application designed for Pokémon Mezastar player
 
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&amp;logo=expo&amp;logoColor=white" alt="Expo" />
 
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/AsyncStorage-6C63FF?style=flat-square&logo=react&logoColor=white" alt="AsyncStorage" />
 
 </p>
 
