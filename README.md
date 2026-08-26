@@ -106,11 +106,15 @@ Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and N
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,flask,firebase" alt="PasyarNorte Technologies" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,flask,firebase,vercel" alt="PasyarNorte Technologies" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=000000" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
+<img src="https://img.shields.io/badge/Apify-97D700?style=flat-square&logo=apify&logoColor=000000" alt="Apify" />
 
 </p>
 
