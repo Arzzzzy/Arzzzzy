@@ -49,72 +49,40 @@ Environment        Linux / Debian / Docker / Git
 
 ## Featured Projects
 
-### MezastarHub
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">MezastarHub</h3>
+<p align="center"><sub>Offline-first companion app for Pokémon Mezastar players and collectors.</sub></p>
+
+- Collection tracking
+- Battle assistance
+- Backup and data import/export
+- Multi-language Android release
 
 <p align="center">
-Offline-first mobile companion application designed for Pokémon Mezastar players and collectors.
-</p>
-
-#### Highlights
-
-* Offline-first application architecture
-* Collection tracking and management
-* Battle assistance tools
-* Local data storage
-* Backup, import, and export functionality
-* Multi-language support
-* Production Android deployment
-
-#### Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,androidstudio&amp;perline=3" alt="MezastarHub Technologies" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&amp;logo=expo&amp;logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/AsyncStorage-6C63FF?style=flat-square&amp;logo=react&amp;logoColor=white" alt="AsyncStorage" />
-
-</p>
-
+<img src="https://skillicons.dev/icons?i=react,js,androidstudio&amp;perline=3" alt="React, JavaScript, and Android Studio" />
 <br/>
-
-### PasyarNorte
-
-<p align="center">
-Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and Natural Language Processing.
+<sub>React Native · Expo · AsyncStorage</sub>
 </p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">PasyarNorte</h3>
+<p align="center"><sub>Tourism recommendations powered by sentiment analysis and NLP.</sub></p>
 
-#### Highlights
-
-* Aspect-Based Sentiment Analysis
-* Preference-aware recommendations
-* NLP review processing
-* Sentiment analytics
-* Machine learning API integration
-* Full-stack cloud deployment
-
-#### Technologies
+- Preference-aware recommendations
+- NLP review processing
+- Sentiment analytics
+- Full-stack cloud deployment
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,flask&amp;perline=4" alt="PasyarNorte Technologies" />
-
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,flask,firebase,vercel&amp;perline=3" alt="React, Node.js, Python, Flask, Firebase, and Vercel" />
 <br/>
-
-<img src="https://skillicons.dev/icons?i=firebase,vercel&amp;perline=2" alt="PasyarNorte Cloud Technologies" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=000000" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&amp;logo=digitalocean&amp;logoColor=white" alt="DigitalOcean" />
-<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&amp;logo=leaflet&amp;logoColor=white" alt="Leaflet" />
-<img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&amp;logo=hostinger&amp;logoColor=white" alt="Hostinger" />
-<img src="https://img.shields.io/badge/Apify-97D700?style=flat-square&amp;logo=apify&amp;logoColor=000000" alt="Apify" />
-
+<sub>Hugging Face · Leaflet · DigitalOcean</sub>
 </p>
-
+</td>
+</tr>
+</table>
 
 ---
 
@@ -122,87 +90,11 @@ Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and N
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,html,css&amp;perline=4" alt="Programming Languages" />
-
-<br/>
-<br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap&amp;perline=3" alt="Frontend Technologies" />
-
-<br/>
-<br/>
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=react,androidstudio&amp;perline=2" alt="Mobile Development" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" />
-
-<br/>
-<br/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel&amp;perline=3" alt="Backend Technologies" />
-
-<br/>
-<br/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&amp;perline=3" alt="Database Technologies" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
-
-<br/>
-<br/>
-
-### Machine Learning and NLP
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;perline=3" alt="Machine Learning Technologies" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=000000" alt="Hugging Face" />
-
-<br/>
-<br/>
-
-### Development and Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,debian,nginx,vercel,gcp,azure&amp;perline=5" alt="Development and Deployment Technologies" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&amp;logo=digitalocean&amp;logoColor=white" alt="DigitalOcean" />
-
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&amp;logo=render&amp;logoColor=white" alt="Render" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,html,css,react,nextjs,vue,vite,tailwind,bootstrap,nodejs,express,flask,laravel,postgres,mysql,firebase,supabase,pytorch,tensorflow,git,github,docker,linux,debian,nginx,vercel,gcp&amp;perline=6" alt="Languages, frameworks, databases, machine learning, and deployment technologies" />
 
 </div>
 
----
-
-## Technical Overview
-
-| Area                            | Technologies                                        |
-| :------------------------------ | :-------------------------------------------------- |
-| **Frontend**                    | React, Next.js, Vue.js, Tailwind CSS                |
-| **Mobile**                      | React Native, Expo                                  |
-| **Backend**                     | Node.js, Express.js, Flask, Laravel                 |
-| **API Development**             | REST APIs, Authentication, Third-party Integrations |
-| **Databases**                   | PostgreSQL, MySQL, Firebase, Supabase               |
-| **Machine Learning**            | PyTorch, TensorFlow, Scikit-learn                   |
-| **Natural Language Processing** | Hugging Face, PyABSA, Sentiment Analysis            |
-| **Deployment**                  | Vercel, DigitalOcean, Render, Nginx                 |
-| **Development**                 | Git, GitHub, Docker, Linux, Debian                  |
+<p align="center"><sub>Expo · Hugging Face · Scikit-learn · DigitalOcean · Render · Azure</sub></p>
 
 ---
 
