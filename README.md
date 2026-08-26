@@ -75,11 +75,10 @@ Offline-first mobile companion application designed for Pokémon Mezastar player
 
 <img src="https://skillicons.dev/icons?i=react,js,androidstudio" alt="MezastarHub Technologies" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&amp;logo=expo&amp;logoColor=white" alt="Expo" />
-
-<img src="https://img.shields.io/badge/AsyncStorage-6C63FF?style=flat-square&logo=react&logoColor=white" alt="AsyncStorage" />
+<img src="https://img.shields.io/badge/AsyncStorage-6C63FF?style=flat-square&amp;logo=react&amp;logoColor=white" alt="AsyncStorage" />
 
 </p>
 
@@ -106,22 +105,25 @@ Tourism recommendation platform powered by Aspect-Based Sentiment Analysis and N
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,flask,firebase,vercel" alt="PasyarNorte Technologies" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,flask" alt="PasyarNorte Technologies" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=firebase,vercel" alt="PasyarNorte Cloud Technologies" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
-<img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
-<img src="https://img.shields.io/badge/Apify-97D700?style=flat-square&logo=apify&logoColor=000000" alt="Apify" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=000000" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&amp;logo=digitalocean&amp;logoColor=white" alt="DigitalOcean" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&amp;logo=leaflet&amp;logoColor=white" alt="Leaflet" />
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&amp;logo=hostinger&amp;logoColor=white" alt="Hostinger" />
+<img src="https://img.shields.io/badge/Apify-97D700?style=flat-square&amp;logo=apify&amp;logoColor=000000" alt="Apify" />
 
 </p>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## Technology Stack
